@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Onkar Apte"
   pronouns         : # example: "she/her"  
-  bio              : "1st PhD student in Quantum Information Science"
+  bio              : "PhD student in Quantum Information Science"
   location         : "Los Angeles"
   employer         : "University of Southern California"
   uri              : "https://fdgod99.github.io/me/"
-  email            : "oapte AT usc DOT edu" 
+  email            : "oapte@usc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
