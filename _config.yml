@@ -21,13 +21,13 @@ repository               : "https://github.com/FDGod99/me"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "luffy-profile.jpeg"
   name             : "Onkar Apte"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Quantum Information Science & Quantum Computing"
   location         : "Los Angeles, CA"
   employer         : "University of Southern California ✌🏼"
-  uri              : "https://fdgod99.github.io/me/"
+  uri              : # "https://fdgod99.github.io/me/"
   email            : "oapte@usc.edu" 
 
   # Academic websites
