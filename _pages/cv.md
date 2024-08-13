@@ -29,7 +29,7 @@ Experience
   * Grader for course EE 510: Linear Algebra for Engineers.
   * Grader for course EE 520: Introduction to Quantum Information Processing.
 
-* **U.S. Quantum Information Science Summer School Student**, <u>Superconducting Quantum Materials and Systems Center, Fermilab</u> *(Aug 2023)*
+* **USQIS Summer School Student**, <u>Superconducting Quantum Materials and Systems Center, Fermilab</u> *(Aug 2023)*
   * Presented my on-going research work. [[Poster](https://drive.google.com/file/d/1Oc6mps5IqK25sVtUGStDIXfoFy_e2VC5/view)]
   * Studied applications of QIS to quantum computation, high-energy physics, quantum sensing, etc.
   * Worked on the experimental side of quantum computing - qubit design, fabrication and packaging. Conducted small experiments on machines such as SEM, ToF-SIMS, TEM, STM and PPMS.
@@ -52,24 +52,40 @@ Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Papers & Reports
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service, leadership & Involement
 ======
-* Currently signed in to 43 different slack teams
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+|          |         |               |          |
+| ------------ | ------------- | ------------------ | ------------ |
+| Massachusetts Institute of Technology | iQuHack 2023 - 3rd place winner    | Jan 2023 | Boston, MA, USA    |
+| USC Viterbi School of Engineering  | Mentor    | Jan 2023 - May 2024 | Los Angeles, CA, USA    |
+| USC Viterbi School of Engineering | Graduate Student Ambassador    | Sept 2022 - Present | Los Angeles, CA, USA    |
+| Environmental Charter Middle School | MESA Teaching Assitant (Volunteer)    | Sept 2022 - July 2023 | Inglewood, CA, USA    |
+| Microsoft TEALS | Teaching Assistant (Volunteer)    | Aug 2023 - Dec - 2023 | Lynwood, CA, USA    |
+| IBM       | Qiskit Advocate    | Aug 2023 - Present    | Los Angeles, CA, USA         |
+| Home Tuition Teacher (Tutor)       | Self-employed (Volunteer)          |Nov 2021 - Apr 2022    | Badlapur, MH, India        |
+
