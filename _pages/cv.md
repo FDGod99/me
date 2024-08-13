@@ -65,7 +65,7 @@ Papers & Reports
 * Clayton Cheung, Matthew Ai, **Onkar Apte**, Juan Garcia Nila, “On-chip Non-magnetic Isolator”, in progress. [[Initial Report](https://fdgod99.github.io/me/files/papers-reports/isopod_report.pdf)] [[Presentation slides](https://fdgod99.github.io/me/files/presentations/isopod_slides.pdf)] 
 * **Onkar Apte** "Report: SNAIL based Parametric Amplifier” (2023) [[PDF](https://fdgod99.github.io/me/files/papers-reports/snail_report.pdf)]
 * **Onkar Apte** "Report: An overview of Quantum Discord” (2023). [[PDF](https://fdgod99.github.io/me/files/papers-reports/discord_report.pdf)]
-* Joseph Barreto, **Onkar Apte**, Arman Babakhani, Daniel Lidar, “Time-resolved Shadow Tomography of Open System Dynamics”, in progress. [[Initial Report](https://fdgod99.github.io/me/files/papers-reports/shadow_report.pdf)] [[SQuInT 2023 Poster](https://fdgod99.github.io/me/files/posters/shadow_squint_poster.pdf)] [[APS March Meeting 2024 Talk](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RfsXH5wAAAAJ&citation_for_view=RfsXH5wAAAAJ:u5HHmVD_uO8C)]
+* Joseph Barreto, **Onkar Apte**, Arman Babakhani, Daniel Lidar, “Time-resolved Shadow Tomography of Open System Dynamics”, in progress. [[Initial Report](https://fdgod99.github.io/me/files/papers-reports/shadow_report.pdf)] [[SQuInT 2023 Poster](https://fdgod99.github.io/me/files/posters/shadow_squint_poster.pdf)] [[APS March Meeting 2024 Talk]()]
 * **Onkar Apte** "Report: Leading Qubit Modalities” (2022). [[PDF](https://fdgod99.github.io/me/files/papers-reports/qubits_report.pdf)]
 
    
