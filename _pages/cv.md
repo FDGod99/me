@@ -30,7 +30,7 @@ Experience
   * Grader for course EE 520: Introduction to Quantum Information Processing.
 
 * **USQIS Summer School Student**, <u>Superconducting Quantum Materials and Systems Center, Fermilab</u> *(Aug 2023)*
-  * Presented my on-going research work. [[Poster](https://drive.google.com/file/d/1Oc6mps5IqK25sVtUGStDIXfoFy_e2VC5/view)]
+  * Presented my on-going research work. [[Poster](https://fdgod99.github.io/me/files/posters/shadow_fermilab_poster.pdf)]
   * Studied applications of QIS to quantum computation, high-energy physics, quantum sensing, etc.
   * Worked on the experimental side of quantum computing - qubit design, fabrication and packaging. Conducted small experiments on machines such as SEM, ToF-SIMS, TEM, STM and PPMS.
   
@@ -61,8 +61,13 @@ Experience
    
 Papers & Reports
 ======
-* test
-* test
+* **Onkar Apte**, Ammar Babar, Mario Morford-Oberst, "Decoding Quantum Error Correcting Codes with a Quantum Annealer", in progress. [[Initial Report](https://fdgod99.github.io/me/files/papers-reports/decoding_annealer_report.pdf)] [[Presentation slides](https://fdgod99.github.io/me/files/presentations/decoding_with_annealer_slides.pdf)]
+* Clayton Cheung, Matthew Ai, **Onkar Apte**, Juan Garcia Nila, “On-chip Non-magnetic Isolator”, in progress. [[Initial Report](https://fdgod99.github.io/me/files/papers-reports/isopod_report.pdf)] [[Presentation slides](https://fdgod99.github.io/me/files/presentations/isopod_slides.pdf)] 
+* **Onkar Apte** "Report: SNAIL based Parametric Amplifier” (2023) [[PDF](https://fdgod99.github.io/me/files/papers-reports/snail_report.pdf)]
+* **Onkar Apte** "Report: An overview of Quantum Discord” (2023). [[PDF](https://fdgod99.github.io/me/files/papers-reports/discord_report.pdf)]
+* Joseph Barreto, **Onkar Apte**, Arman Babakhani, Daniel Lidar, “Time-resolved Shadow Tomography of Open System Dynamics”, in progress. [[Initial Report](https://fdgod99.github.io/me/files/papers-reports/shadow_report.pdf)] [[SQuInT 2023 Poster](https://fdgod99.github.io/me/files/posters/shadow_squint_poster.pdf)] [[APS March Meeting 2024 Talk](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RfsXH5wAAAAJ&citation_for_view=RfsXH5wAAAAJ:u5HHmVD_uO8C)]
+* **Onkar Apte** "Report: Leading Qubit Modalities” (2022). [[PDF](https://fdgod99.github.io/me/files/papers-reports/qubits_report.pdf)]
+
    
 <!-- Talks
 ======
