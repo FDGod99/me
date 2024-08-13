@@ -17,29 +17,40 @@ Education
 
 Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Student Researcher**, <u>Levenson-Falk Lab, USC Dornsife College of Letters, Arts and Sciences</u> *(Jan 2024 - May 2024)*
+  * Worked with Prof. Eli Levenson-Falk on adding new features to the Superconducting Qubit And Device Design and Simulation database ([SQuADDS](https://lfl-lab.github.io/SQuADDS/)). 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Graduate Student Researcher**, <u>Ming Hsieh Department of Electrical and Computer Engineering, USC Viterbi School of Engineering</u> *(Jan 2023, Dec 2023)*
+  * Worked with Prof. Todd Brun on efficient Clifford circuit translations for Fault-Tolerant Quantum Computation in Quantum Error-Detecting code.
+  * Worked on improving teleportation-based fault-tolerant quantum computation scheme.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Grader/Course Producer**, <u>Ming Hsieh Department of Electrical and Computer Engineering, USC Viterbi School of Engineering</u> *(Aug 2023 - May 2024)*
+  * Course producer for CSCI 575: Quantum Computing & Quantum Cryptography
+  * Grader for course EE 510: Linear Algebra for Engineers.
+  * Grader for course EE 520: Introduction to Quantum Information Processing.
+
+* **U.S. Quantum Information Science Summer School Student**, <u>Superconducting Quantum Materials and Systems Center, Fermilab</u> *(Aug 2023)*
+  * Presented my on-going research work. [[Poster](https://drive.google.com/file/d/1Oc6mps5IqK25sVtUGStDIXfoFy_e2VC5/view)]
+  * Studied applications of QIS to quantum computation, high-energy physics, quantum sensing, etc.
+  * Worked on the experimental side of quantum computing - qubit design, fabrication and packaging. Conducted small experiments on machines such as SEM, ToF-SIMS, TEM, STM and PPMS.
   
-Skills
+* **Freelance Web Developer**, <u>Excelssior Education Society</u> *(June 2020 - Nov 2020)*
+  * Created a [website](https://bimsparadiseschool.edu.in/) for a school and Montessori, used by 1000+ users annually.
+
+* **NLP Intern**, <u>Tata Consultancy Services</u> *(May 2020 - June 2020)*
+  * Implemented the BERT model and fine-tuned it to discern emotion from textual data and performed sentiment analysis, yielding 91% accuracy.
+
+* **Machine Learning Intern**, <u>Vidyalankar Consultancy Services</u> *(Dec 2019 - Jan 2020)*
+  * Created a machine learning model to predict the price of houses and used Gradient descent for optimization to yield a prediction accuracy of 95%
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
