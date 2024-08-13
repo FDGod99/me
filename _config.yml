@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Onkar Apte"
 description              : &description "personal description"
-url                      : https://fdgod99.github.io/me/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fdgod99.github.io/me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/FDGod99/me"
 
