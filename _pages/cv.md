@@ -15,7 +15,7 @@ Education
 * M.S. in Quantum Information Science, University of Southern California, 2024
 * B.E. in Computer Engineering, University of Mumbai, 2021
 
-Work experience
+Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
