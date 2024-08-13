@@ -52,12 +52,17 @@ Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Papers & Reports
+<!-- Papers & Reports
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
+ Papers & Reports
+======
+* test
+* test
+   
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
