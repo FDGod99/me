@@ -1,10 +1,9 @@
 ---
 permalink: /
-title: "Personal website for FDGod"
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 Under construction 🚧
-
